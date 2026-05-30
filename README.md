@@ -111,7 +111,6 @@ Open your browser at `http://localhost:8501`
 - *"What is the main finding of this paper?"*
 - *"Summarize the conclusion"*
 - *"What methodology was used?"*
-- *"In a dynamically linked library, ____. A) ... B) ... C) ... D) ..."*
 
 ---
 
